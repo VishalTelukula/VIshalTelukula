@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Projects
+🚀 Projects
 
 ### [Online Handmade Product Store](https://github.com/VishalTelukula/Handmade_products_springboot)
 A full-stack e-commerce platform using Java, Spring Boot, and MySQL.
