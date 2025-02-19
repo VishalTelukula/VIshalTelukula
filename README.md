@@ -55,7 +55,7 @@ A robust backend system for employee record handling.
   </tr>
 </table>
 ---
-### 🏆 Achievements
+ 🏆 Achievements
 
 - Published a research paper on **CNN-based** crop disease identification at **ICICT 2023**.
 - Delivered a **keynote speech** on Unreal Engine to an audience of **100+ attendees**, demonstrating leadership and public speaking skills.
